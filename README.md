@@ -46,11 +46,11 @@ RECOMMENDATIONS
 Based on the Exploratory Data Analysis (EDA) and insights derived from the SQL queries, here are some recommendations to improve the efficiency and reliability of the oil transfer service:
 1.	Optimize Workforce Allocation
 2.	Recommendation: Based on the total number of truck drivers, assess if the current workforce is sufficient to meet demand, especially during peak periods. If there are shortages, consider hiring additional drivers or redistributing work hours to avoid delays.
-•	Actionable Steps:
+1.	Actionable Steps:
 1.	Evaluate whether the number of drivers matches the number of trucks and expected delivery volumes.
 2.	Consider flexible staffing models, such as on-demand or seasonal hires, to meet peak service needs.
 3.	Fleet Management and Maintenance Optimization
-•	Recommendation: Analyze the number of efficient trucks and the breakdown/maintenance frequency. If a significant percentage of trucks are not efficient, or if maintenance is frequent, consider upgrading or replacing older trucks. Actionable Steps:
+1.	Recommendation: Analyze the number of efficient trucks and the breakdown/maintenance frequency. If a significant percentage of trucks are not efficient, or if maintenance is frequent, consider upgrading or replacing older trucks. Actionable Steps:
 1.	Perform a detailed analysis of trucks' age, usage patterns, and maintenance logs to identify inefficiencies.
 2.	Develop a preventive maintenance schedule to reduce breakdowns, including replacing parts before they fail.
 3	Investigate leasing or acquiring newer, more efficient trucks if maintenance costs are too high for older ones.
